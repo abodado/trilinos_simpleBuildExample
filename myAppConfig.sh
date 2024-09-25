@@ -5,7 +5,7 @@ export OMPI_CC=gcc
 export CXX=g++
 export OMPI_CXX=g++
 
-export TRILINOS_MAIN=/s/bsweetma/trilinos
+export TRILINOS_MAIN=/s/myspace/trilinos
 export TRILINOS_HOME=${TRILINOS_MAIN}/Trilinos-master-27Aug2024
 export TrilinosInstallDir=${TRILINOS_HOME}/__INSTALL
 
